@@ -8,7 +8,7 @@ subject,Subjects,true
 lcsh, Library of Congress Subject Headings,true
 location,Location
 data_source,Source
-language,Language,true
+language,Language
 origin,Origin
 link,Link
 resource_type,Type,
